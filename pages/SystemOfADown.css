@@ -1,0 +1,35 @@
+.system-of-a-down {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.system-of-a-down img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border: 3px solid #333;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.system-of-a-down h2, .system-of-a-down h3 {
+  color: #333;
+}
+
+.system-of-a-down ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+}
+
+.system-of-a-down a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.system-of-a-down a:hover {
+  text-decoration: underline;
+}
